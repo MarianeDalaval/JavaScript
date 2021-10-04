@@ -1,0 +1,3 @@
+var frutas = [{nome: "maça", cor: "vermelha"}, {nome: "uva", cor: "roxa"}] //Cria uma lista dentro de um dicionário.
+console.log(frutas); //Exibe o conteúdo da variável "frutas", no Console do Browser.
+alert(frutas[1].nome);//Exibe o conteúdo contido em "nome", na 2ª posição - já que a 0 é a 1ª.
