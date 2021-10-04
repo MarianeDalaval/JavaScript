@@ -1,0 +1,12 @@
+var nome = "Mariane Dalaval"; //Declaração de Variável. Devido as aspas duplas, o valor já é considerado uma String.
+var idade = 24; //Declaração de Variável. Por não ter aspas duplas, o valor já é considerado um Número.
+var idade2 = 10; //Declaração de Variável - Número.
+var frase = ("Estou iniciando agora com HTML e JavaScript!"); //Declaração de Variável - String.
+alert(nome + " tem " + idade + " anos de idade!"); //Alert: Exibe mensagens em pop-up na página criada.
+                                                  // "+" Concatena valores.
+alert (idade + idade2);
+console.log(nome); //Exibe as informações contidas nas variáveis indicadas, na tela de "Console" do Browser.
+console.log(idade + idade2);
+console.log(frase.replace("iniciando", "começando")); //Replace: Altera o valor indicado. Nesse caso, transforma o "Iniciando" em "Começando".
+console.log(frase.toUpperCase()); //Coloca o conteúdo da variável indicada em letra maiúscula.
+console.log(frase.toLowerCase()); //Coloca o conteúdo da variável indicada em letra minúscula.
