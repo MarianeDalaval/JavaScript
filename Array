@@ -1,0 +1,11 @@
+var lista = ["maçã", "pêra", "laranja"]; //Declara a array (lista) e os itens da lista.
+lista.push("uva"); //Acrescenta um item (se mostrando como o último elemento) na variável indicada.
+// lista.pop(); >> Retira o último elemento da variável "lista".
+//console.log(lista[1]); >> Exibe, no Console do Browser, o elemento 1, dentre os itens contidos na variável indicada.
+console.log(lista); //Exibe, no Console do Browser, os elementos contidos na variável indicada.
+// console.log(lista.length); >> Exibe, no Console do Browser, a quantidade de elementos contidos na variável indicada.
+console.log(lista.reverse()); //Altera a ordem dos elementos da varíavel "lista", revertendo-os.
+console.log(lista.toString()); //Transforma o conteúdo da variável "lista" em texto/string, retirando a referência de Array.
+// console.log(lista[0]); >> Exibe, no Console do Browser, o elemento correspondente ao índice 0 dentro da variável "lista", que no caso, é o elemento "maçã".
+// console.log(lista.toString()[0]); >> Exibe, no Console do Browser, a primeira letra dentre o texto/string contido na variável "lista", que no caso, é "m".
+console.log(lista.join(" - ")); //Insere um traço "-" entre os elementos contidos na variável "lista", além de convertê-los em String.
