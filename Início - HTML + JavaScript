@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Minha Página</title>
+        <meta charset="utf-8">
+        <script type="text/javascript" src="JS/início.js"></script>
+        <script type="text/javascript" src="JS/array.js"></script>
+        <script type="text/javascript" src="JS/dicionário1.js"></script>
+        <script type="text/javascript" src="JS/dicionário2.js"></script>
+    </head>
+    <body>
+       <h1>Minha Página</h1>
+    </body>
+</html>
