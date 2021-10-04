@@ -1,0 +1,3 @@
+//var fruta = {nome: "maçã", cor: "vermelha"} //Cria um dicionário.
+//console.log(fruta.nome); //Exibe o conteúdo do elemento "nome", que está inserido na variável "fruta".
+//alert(fruta.cor); //Exibe o conteúdo do elemento "cor", que está inserido na variável "fruta", em um pop-up na página criada.
